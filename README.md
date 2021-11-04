@@ -19,6 +19,7 @@
 
 - Qualquer dúvida em relação as questões devem ser passadas a Empresa.
 
+- As questões devem ser entregues em ATÉ 5 dias, os 5 dias são contados a partir do envio das questões ao Candidato(a).
 
 <hr>
 
