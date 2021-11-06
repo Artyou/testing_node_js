@@ -21,6 +21,8 @@
 
 - As questões devem ser entregues em ATÉ 5 dias, os 5 dias são contados a partir do envio das questões ao Candidato(a).
 
+- O Envio das Respostas deve ser realizado em um Repositorio Privado, desta forma o candidato(a) deverá gerar um Link e Envia-lo no LinkedIn de Douglas Negrisolli.
+
 <hr>
 
 ## **Perguntas/Questões**
